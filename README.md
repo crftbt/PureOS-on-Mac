@@ -16,8 +16,8 @@ lsb_release -a
 10
 ```
 * 10 = Debian Buster
-** The Debian Buster version of the broadcom firmware package https://packages.debian.org/buster-backports/broadcom-sta-dkms
-*** Right Click Save As https://packages.debian.org/buster-backports/all/broadcom-sta-dkms/download 
+* The Debian Buster version of the broadcom firmware package https://packages.debian.org/buster-backports/broadcom-sta-dkms
+* Right Click Save As https://packages.debian.org/buster-backports/all/broadcom-sta-dkms/download 
 ### Install the broadcom firmware package
 > sudo apt install ./broadcom*.deb
 
